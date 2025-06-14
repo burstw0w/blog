@@ -7,7 +7,7 @@ categories: it
 Модерни интернет је сатанистичка творевина створена да би човека одвела прерано у гроб, а за то су криви сви, почевши од корисника па до оних који те исте сајтове раде. Не треба ићи далеко за примере апсолутног хорора модерне технологије, већ се може погледати неки од канцерогених домаћих портала попут blic.rs који не само да су са стране квалитета израде на јако ниском нивоу, већ су на још горем нивоу што се тиче квалитета вести. Али узмимо за пример било који од њихових чланака. 
 
 testiram ovo 
-![blic1](_assets/images/1.avif)
+![blic1](https://raw.githubusercontent.com/burstw0w/blog/refs/heads/main/_assets/images/1.avif)
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

@@ -5,5 +5,4 @@ entries:
         url: http://github.com/burstw0w/
 
   - title: posts
-    post_list:
-      category: blog, it
+    post_list: true

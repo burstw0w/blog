@@ -14,4 +14,5 @@ category: istorija
 ---
 {: data-content="Слике из оригиналног дела"}
 ![tudjemil1](https://raw.githubusercontent.com/burstw0w/blog/refs/heads/main/_assets/images/tudjemil1.avif)
+
 ![tudjemil2](https://raw.githubusercontent.com/burstw0w/blog/refs/heads/main/_assets/images/tudjemil2.avif)

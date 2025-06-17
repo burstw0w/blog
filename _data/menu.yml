@@ -8,6 +8,23 @@ entries:
     post_list:
       category: blog
 
-  - title: history
-    post_list:
-      category: istorija
+  - title: other
+    entries:
+      - title: history
+        entries:
+          - title: '[1042] Битка код Туђемила'
+            url: https://blog.burstx86.xyz/istorija/tudjemil.html
+          - title: '[1386] Ђурађ II Балшић, писмо Дубровчанима'
+            url: https://blog.burstx86.xyz/istorija/balsici.html
+          - title: '[1412] Ђурађ Црнојевић дарива властелину Медлу Анђеловићу Шушањ'
+            url: https://blog.burstx86.xyz/istorija/susanj.html
+          - title: '[1520] Синаксар, војвода Божидар Вуковић о црквеним текстовима'
+            url: https://blog.burstx86.xyz/istorija/vukovic.html
+          - title: '[1599] L`Ottomano, Lazaro Soranzo - Опис oсманског царства'
+            url: https://blog.burstx86.xyz/istorija/lottomano.html
+          - title: '[1744] O Србима православне вере у Далмацији'
+            url: https://blog.burstx86.xyz/istorija/mateja.html
+          - title: '[1763] Црногорски митрополити Сава и Василије Петровић траже новчану помоћ од Дубровника за народ и цркву'
+            url: https://blog.burstx86.xyz/istorija/vasilijedubrovnik.html
+          - title: '[1776] Владика Сава се жали митрополиту московском Платону'
+            url: https://blog.burstx86.xyz/istorija/savaplaton.html

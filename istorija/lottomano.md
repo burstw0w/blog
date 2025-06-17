@@ -1,6 +1,6 @@
 ---
 layout: page
-title: '[1599] L`Ottomano, Lazaro Soranzo - Опис Османског царства'
+title: '[1599] L`Ottomano, Lazaro Soranzo - Опис oсманског царства'
 ---
 
 Превод:

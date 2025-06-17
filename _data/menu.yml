@@ -5,7 +5,8 @@ entries:
         url: http://github.com/burstw0w/
 
   - title: posts
-    post_list: true
+    post_list:
+      category: blog
 
   - title: history
     post_list:

@@ -2,7 +2,6 @@
 layout: post
 title: '[RS] Интернет од 300 кила'
 date: '2025-06-15 00:47:12 +0000'
-categories: 'blog, it'
 category: it
 ---
 

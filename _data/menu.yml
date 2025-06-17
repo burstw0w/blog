@@ -6,3 +6,8 @@ entries:
 
   - title: posts
     post_list: true
+
+  - title: history
+    post_list:
+      category: istorija
+      

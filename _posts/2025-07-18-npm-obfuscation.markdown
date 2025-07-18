@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[EN] NPM Obfuscation Rant"
-date:   2025-07-18 19:33:33 +0000
+date:   2025-07-18 15:33:33 +0000
 category: it
 category: blog
 ---

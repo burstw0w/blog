@@ -14,7 +14,7 @@ Oh no, I’m sure your five lines of obfuscated nonsense are going to be the nex
 
 I need a few lines. I don't want your whole obfuscated lib. Maybe I want to do something in a lean way instead of importing 500 lines of code that I know for sure are not needed, as I've created something similar in like 50. Now, I am a shitty coder. If I knew any better I would write my own shit. But it's not just that. It's about other users who want to fucking use libs that are FOSS, but get shit that is not even distinguishable from malware, and probably is fucking malware. Can't you just fucking be normal and share your code, instead of copy-pasting each other's shit so you could all become senior devs who move to Canada or the US to waste money for a few years before getting exposed as the frauds you are and deported back.
 
-Fuck NPM that allows this. Fuck people who do this. Fuck JS.
+Fuck NPM for allowing this. Fuck people who do this. Fuck JS.
 
 There are so many libraries that are actually useful, even genius, and I would gladly pay for them. These devs share their code for free. They don’t hide it, they don’t obfuscate it, and they’re not scared of thieves or whatever. The people who write libraries like that earn respect, credibility, and often money, because they know what they’re doing and they’re actually good devs. Compare yourselves to them, and then drop dead.
 

@@ -3,6 +3,7 @@ layout: post
 title:  "[EN] NPM Obfuscation Rant"
 date:   2025-07-18 19:33:33 +0000
 category: it
+category: blog
 ---
 
 I have a project I've been working on so I could learn a bit of JS and make my life, and the life of my buddies, easier. It's some shitty Discord bot that doesn't work half the time, but it's enough for me to have some fun once or twice a month when I have to fix shit up. It uses some libraries, and sometimes, if I think a library is way too big and I only need a part of it, I copy the code. My project is FOSS. I don't make any money off it, I don't hide it, I don't obfuscate it, I don't care about it. I don't want people to sell it, as it's free and open, but I wouldn't mind people taking the code and making something that is actually great and not broken every two months.

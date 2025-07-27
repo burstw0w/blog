@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://burstx86.xyz/sitemap.xml
+

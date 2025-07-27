@@ -12,8 +12,9 @@ I didn't realize that Windows, for whatever reason, installs the bootloader on a
 
 Of course, there's a solution using diskpart on Windows to transfer it to another drive or something, and while it might be possible, I'm just thinking of all the users that would be willing to try Linux and how they're most likely going to get fucked by M$ because dumb Windows doesn't fucking care what you want to use and how you want to use it. Because your PC is not owned by you, it's owned by Microsoft. Screw that.
 
-By the way, I've read some things about the 14KB TCP rule, so from now on all the pics are stored as links that you can click, so they won't load automatically and waste your round trips and time.
+By the way, I've read some things about the [14KB TCP rule][14kb], so from now on all the pics are stored as links that you can click, so they won't load automatically and waste your round trips and time.
 
 [picture][picture]
 
 [picture]: https://raw.githubusercontent.com/burstw0w/blog/refs/heads/main/_assets/images/consent.avif
+[14kb]: https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/

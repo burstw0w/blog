@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[EN] Myth of consentual Windows install'
+title: '[EN] Myth of consensual Windows install'
 date: '2025-07-27 00:47:12 +0000'
 category: it
 category: blog

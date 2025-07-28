@@ -3,7 +3,8 @@ entries:
     entries:
       - title: github
         url: http://github.com/burstw0w/
-      - title: mail: proxied аt burstx86.xyz
+      - title: email me
+        url: mailto:proxied@burstx86.xyz
 
   - title: posts
     post_list:
